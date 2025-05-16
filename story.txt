@@ -1,0 +1,5 @@
+I found a <adjective> creature in my <place>.  
+It was <adjective>, <color>, and could <verb>!  
+It loved eating <plural_noun> and <verb_ing>.  
+Then it gave me a <adjective> <noun> and vanished.  
+Best <day_of_week> ever.
